@@ -1,0 +1,7 @@
+#PRINT 1 TO N USING WHILE LOOPS
+num = int(input("Enter a number: "))
+
+i = 1
+while i <= num:
+    print(i)
+    i += 1
